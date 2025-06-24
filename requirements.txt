@@ -1,2 +1,2 @@
 flask
-premetheus_client
+prometheus_client
