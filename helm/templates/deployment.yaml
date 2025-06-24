@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: satish micro
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: satish micro
+  template:
+    metadata:
+      labels:
+        app: satish micro
+    spec:
+      containers:
+        - name: satish micro
+          image: your-docker-image
+          ports:
+            - containerPort: 8080
+
