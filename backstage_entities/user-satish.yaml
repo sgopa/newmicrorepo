@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: satish
+spec:
+  profile:
+    displayName: Satish
+    email: satish@abc.com
+  memberOf:
+    - group:platform-team
+
