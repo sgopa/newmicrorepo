@@ -5,7 +5,7 @@ metadata:
 spec:
   profile:
     displayName: Satish
-    email: satish@abc.com
+    email: satish@xyz.com
   memberOf:
     - group:platform-team
 
