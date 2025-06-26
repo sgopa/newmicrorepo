@@ -7,5 +7,4 @@ spec:
     displayName: Satish
     email: satish@xyz.com
   memberOf:
-    - group:platform-team
-
+    - group: platform-team
