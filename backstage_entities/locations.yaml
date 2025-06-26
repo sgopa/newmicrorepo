@@ -3,7 +3,7 @@ CopyEdit
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: raman-org-entities
+  name: satish-org-entities
   description: User and Group for the platform org
 spec:
   type: url
