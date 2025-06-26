@@ -8,3 +8,7 @@ spec:
     email: satish@xyz.com
   memberOf:
     - group: platform-team
+<<<<<<< HEAD
+=======
+
+>>>>>>> ef2067957b09d750b23954b37ffa0d380373f5dc
