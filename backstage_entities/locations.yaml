@@ -1,9 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: satish-org-entities
+  name: raman-org-entities
   description: User and Group for the platform org
 spec:
   type: url
   targets:
-    - 
+    - https://raw.githubusercontent.com/ramannkhanna2/raman_micro_test/main/backstage_entities/group-platform-team.yaml
+    - https://raw.githubusercontent.com/ramannkhanna2/raman_micro_test/main/backstage_entities/user-raman.yaml
+
