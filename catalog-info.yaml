@@ -12,4 +12,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: platform-team
-
+  dependsOn:
+    - component:default/example-website
